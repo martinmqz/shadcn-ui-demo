@@ -2,4 +2,4 @@
 
 DEMO: http://omartini.com/demo/shadcn-ui/
 
-![image](https://github.com/user-attachments/assets/21c32851-8bf5-4e49-baef-3b3e5ccd5a1e)
+![image](https://github.com/user-attachments/assets/ff7af8da-19df-49f0-8663-de5758c4c95a)
