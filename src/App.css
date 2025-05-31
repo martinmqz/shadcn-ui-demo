@@ -1,0 +1,27 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+:root {
+  --thirdbasis: calc(96.7%/3);
+}
+.grid-item__title {
+  /* text-align: left; */
+  border-bottom: 1px dotted var(--foreground);
+  padding: .5rem 0;
+  margin-bottom: 1.5rem;
+}
+
+.app-grid__item--separator:not(:first-child) {
+  margin-top: 4rem;
+}
+
+.app-grid__item--separator .grid-item__title {
+  border-bottom: none;
+}
+
+button {
+  cursor: pointer;
+}
