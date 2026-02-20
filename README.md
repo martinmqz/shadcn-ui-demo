@@ -4,4 +4,4 @@ DEMO: [https://martinmqz.github.io/shadcn-ui-demo](https://martinmqz.github.io/s
 
 ![image](https://github.com/user-attachments/assets/ff7af8da-19df-49f0-8663-de5758c4c95a)
 
-![image](https://martinstack.dev/pixel?r=shadcn-ui-demo)
+![image](https://api.webect.com/px?r=shadcn-ui-demo)
